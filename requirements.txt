@@ -1,0 +1,76 @@
+astride==0.3.5
+astropy @ file:///tmp/build/80754af9/astropy_1629829214319/work
+astroquery==0.4.6
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1640799537051/work
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1649463573192/work
+Bottleneck==1.3.2
+brotlipy==0.7.0
+cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
+certifi==2022.12.7
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1625835301720/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1616851478755/work
+cycler==0.10.0
+Cython @ file:///tmp/build/80754af9/cython_1647850341668/work
+czml3 @ file:///home/conda/feedstock_root/build_artifacts/czml3_1639548540228/work
+fonttools==4.25.0
+h5py==2.8.0
+html5lib @ file:///home/conda/feedstock_root/build_artifacts/html5lib_1592930327044/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+imageio==2.21.1
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1617877314848/work
+jeepney @ file:///home/conda/feedstock_root/build_artifacts/jeepney_1649085214306/work
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+jplephem @ file:///home/conda/feedstock_root/build_artifacts/jplephem_1640954253146/work
+keyring @ file:///home/conda/feedstock_root/build_artifacts/keyring_1650416267364/work
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282414123/work
+llvmlite==0.36.0
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1628003481308/work
+memory-profiler @ file:///home/conda/feedstock_root/build_artifacts/memory_profiler_1668586007832/work
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
+mkl-service==2.4.0
+munkres==1.1.4
+networkx==2.6.3
+numba @ file:///home/conda/feedstock_root/build_artifacts/numba_1623568548143/work
+numexpr @ file:///tmp/build/80754af9/numexpr_1618856527787/work
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1626264701743/work
+olefile==0.46
+packaging==21.3
+pandas==1.3.4
+photutils==1.3.0
+Pillow==9.2.0
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1649183764952/work
+poliastro @ file:///home/conda/feedstock_root/build_artifacts/poliastro_1644525672697/work
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyerfa @ file:///tmp/build/80754af9/pyerfa_1621560191196/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1633192417276/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1648857264451/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-mimeparse==1.6.0
+pytz==2021.3
+pyvo==1.2.1
+PyWavelets==1.3.0
+PyYAML==5.4.1
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1641580202195/work
+scikit-image==0.19.3
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1598376882706/work
+scipy @ file:///tmp/build/80754af9/scipy_1618852618548/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+SecretStorage @ file:///home/conda/feedstock_root/build_artifacts/secretstorage_1650401977074/work
+sgp4 @ file:///home/conda/feedstock_root/build_artifacts/sgp4_1590240126314/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1638550740809/work
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1626090218611/work
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tifffile==2021.11.2
+tornado @ file:///tmp/build/80754af9/tornado_1606942283357/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1646031859244/work
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1624965014186/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1647489083693/work
+w3lib @ file:///home/conda/feedstock_root/build_artifacts/w3lib_1591173357158/work
+webencodings==0.5.1
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
